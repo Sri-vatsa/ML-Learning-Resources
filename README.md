@@ -1,9 +1,19 @@
 # ML-Learning-Resources
 Consolidated ML Resources
 
+
 ## RNN
 * [Introduction to RNN and LSTM](https://deeplearning4j.org/lstm.html)
 * [A good video introduction by Siraj Raval](https://www.youtube.com/watch?v=BwmddtPFWtA)
+* [Recent Advances in RNN](https://arxiv.org/pdf/1801.01078.pdf)
+* [Sequence Transduction with Recurrent Neural Networks](https://arxiv.org/pdf/1211.3711.pdf)
+* [Learning Phrase Representations using RNN Encoder–Decoder](https://arxiv.org/pdf/1406.1078.pdf)
+* [Deep RL for sequence to sequence models](https://arxiv.org/pdf/1805.09461.pdf)
+
+## Attention Networks
+* [Transformer - Attention model explained](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.Wy3sXRIza34)
+* [Google Brain Attention paper](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+* [Syntactic constituency parsing using Attention models](https://arxiv.org/pdf/1412.7449.pdf)
 
 ## Natural Language Processing
 
